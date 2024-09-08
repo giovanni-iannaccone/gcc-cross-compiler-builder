@@ -25,4 +25,13 @@ chmod +x crossbuilder.sh
 > Binutils and GCC must be compatible versions, check <a href="https://wiki.osdev.org/Cross-Compiler_Successful_Builds">here</a> for successful builds. <br/>
 > Versions that were released around the same time should be compatible.
 
-For more informations about cross compilers and their importance in os development check <a href="https://wiki.osdev.org/GCC_Cross-Compiler">osdev wiki</a>
+## Compatible OS 🐧
+The script will work only on operating systems based on these:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="Arch" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-original.svg" alt="Gentoo" width="55"/>
+</div>
+
+## Resources 📚
+For more informations about cross compilers and their importance in os development check <a href="https://wiki.osdev.org/GCC_Cross-Compiler">wiki.osdev.org</a>
