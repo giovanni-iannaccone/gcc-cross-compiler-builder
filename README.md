@@ -26,7 +26,7 @@ chmod +x crossbuilder.sh
 > Versions that were released around the same time should be compatible.
 
 ## Compatible OS 🐧
-The script will work only on operating systems based on these:
+The script will work only on operating systems based on:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="Arch" width="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="55"/>
