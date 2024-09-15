@@ -31,6 +31,7 @@ The script will work only on operating systems based on:
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="Arch" width="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-original.svg" alt="Gentoo" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="RedHat" width="55"/>
 </div>
 
 ## Resources 📚
