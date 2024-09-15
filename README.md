@@ -16,8 +16,8 @@ chmod +x crossbuilder.sh
 ```
 ./crossbuilder.sh -b [BINUTILS VERSION] -g [GCC VERSION] -t [TARGET SYSTEM]
 
--b | --binutils           is the binutils version the script is going to install in your system
--g | --gcc                is the gcc version the script the script is going to install in your system
+-b | --binutils           the binutils version the script is going to install in your system
+-g | --gcc                the gcc version the script is going to install in your system
 -t | --target             the target system
 ```
 
