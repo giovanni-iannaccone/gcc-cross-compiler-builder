@@ -60,7 +60,7 @@ install_packages() {
             gentoo) sudo emerge --ask sys-devel/gcc dev-build/make sys-devel/bison sys-devel/flex dev-libs/gmp dev-libs/mpc dev-libs/mpfr sys-apps/texinfo dev-libs/isl ;;
             rhel) sudo dnf install gcc gcc-c++ bison flex gmp-devel mpfr-devel libmpc-devel texinfo ;;
             *) 
-                echo -e "$RED[-] Unable to determine the OS. Please input the base OS type (arch, debian, gentoo):$DEFAULT"
+                echo -e "$RED[-] Unable to determine the OS. Please input the base OS type (arch, debian, gentoo, rhel):$DEFAULT"
                 read -r os_base
                 install_packages "$os_base"
             ;;
